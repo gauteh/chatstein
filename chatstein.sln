@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 9.00
 # Visual Studio 2005
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oystein", "oystein.csproj", "{43A802A9-E02C-4438-A308-D7E160F3EB60}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chatstein", "chatstein.csproj", "{43A802A9-E02C-4438-A308-D7E160F3EB60}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +15,6 @@ Global
 		{43A802A9-E02C-4438-A308-D7E160F3EB60}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = oystein.csproj
+		StartupItem = chatstein.csproj
 	EndGlobalSection
 EndGlobal
